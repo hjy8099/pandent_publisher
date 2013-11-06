@@ -1,0 +1,8 @@
+prefix=/home/mzen/catkin_ws/devel
+
+Name: pandent_pulisher
+Description: Description of pandent_pulisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mzen/catkin_ws/devel/lib 
+Requires: 

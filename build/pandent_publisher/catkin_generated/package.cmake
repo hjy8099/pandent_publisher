@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pandent_publisher")
+set(pandent_publisher_MAINTAINER "mzen <mzen@todo.todo>")
+set(pandent_publisher_DEPRECATED "")
+set(pandent_publisher_VERSION "0.0.0")
+set(pandent_publisher_BUILD_DEPENDS "sensor_msgs" "tf" "urdf")
+set(pandent_publisher_RUN_DEPENDS "sensor_msgs" "tf" "urdf")
+set(pandent_publisher_BUILDTOOL_DEPENDS "catkin")

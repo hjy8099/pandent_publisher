@@ -1,0 +1,8 @@
+prefix=/home/mzen/catkin_ws/install
+
+Name: pandent_publisher
+Description: Description of pandent_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mzen/catkin_ws/install/lib 
+Requires: 
